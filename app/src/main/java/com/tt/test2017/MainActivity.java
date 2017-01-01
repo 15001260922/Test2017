@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("first213123");
         System.out.println("gai");
-        System.out.println("A 本地3");
+        System.out.println("A 本地33");
 
     }
 }
